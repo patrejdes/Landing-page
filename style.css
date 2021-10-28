@@ -1,0 +1,126 @@
+.first {
+    
+    background-color: #1F2937;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 40px;
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 2rem;
+    padding-top: 2rem;
+}
+.right-nav {
+    display: flex;
+    gap: 10px;
+    color: #E5E7EB;
+}
+.left-nav {
+    color: honeydew;
+    font-size: 18px;
+}
+.header-container {
+    display: flex;
+}
+.left-cont {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    align-items: flex-start;
+    color: #E5E7EB;
+}
+.right-cont {
+    display: flex;
+    flex: 1;
+    background-color: #E5E7EB;
+}
+.text {
+    display: flex;
+    align-self: center;
+    justify-content: center;
+    flex: 1;
+}
+h1 {
+    margin: 0px;
+    color: honeydew;
+}
+.sign-up, .fourth-button {
+    background-color: #3882f6;
+    color: #E5E7EB;
+    width: 6rem;
+    border-radius: 10px;
+    border: solid #3882f6;
+    font-size: medium;
+    font-weight: 800;
+}
+.fourth-button {
+    border: solid 1px white;
+}
+.square {
+    border: solid 2px #3882f6;
+    height: 100px;
+    width: 100px;
+    border-radius: 5px;
+}
+.cont-2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    padding-bottom: 40px;
+}
+.box {
+    width: 104px;
+    font-size: small;
+    text-align: center;
+}
+.second-h {
+    text-align: center;
+    color: black;
+    padding: 10px;
+}
+.third {
+    background-color: #E5E7EB;
+    height: 230px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.third-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+    width: 400px;
+}
+.p-right {
+    align-self: flex-end;
+}
+.fourth{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+}
+.fourth-text {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 65%;
+    background-color: #3882f6;
+    padding: 10px 35px;
+    border-radius: 15px;
+}
+h2, .fourth-text p {
+    color: #E5E7EB;
+}
+h2 {
+    margin-bottom: 0px;
+}
+.fourth-text p {
+    margin-top: 0px;
+    font-size: small;
+}
